@@ -1,7 +1,6 @@
 Helpers
 =======
 
-Here are some links to little helpers/tools for developers of modules for the OXID eShop:
+The OXID eShop developer documentation has moved to `OXID documentation <https://docs.oxid-esales.com>`_. Please use the new location to gather information.
 
-* `OXID module internals <https://github.com/acirtautas/oxid-module-internals>`__
-* `Metadata Generator <https://github.com/OXIDprojects/metadataGenerator>`__
+If you want to access the page directly please replace the top level domain http://oxid-eshop-developer-documentation.readthedocs.io  in the url with https://docs.oxid-esales.com/developer/.

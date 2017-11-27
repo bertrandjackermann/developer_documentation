@@ -1,14 +1,6 @@
 What's next?
 ============
 
-Module resources
-----------------
+The OXID eShop developer documentation has moved to `OXID documentation <https://docs.oxid-esales.com>`_. Please use the new location to gather information.
 
-All the information for backend developer can be found under :ref:`module section <modules-20170527>`. You'll find all the necessary information
-to understand how modules works and how to write them.
-
-
-Theming resources
------------------
-
-Information for creating or extending OXID eShop theme, can be found in :ref:`themes section <themes-20170527>`.
+If you want to access the page directly please replace the top level domain http://oxid-eshop-developer-documentation.readthedocs.io  in the url with https://docs.oxid-esales.com/developer/.

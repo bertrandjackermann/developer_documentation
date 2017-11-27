@@ -1,14 +1,6 @@
 Getting started
 ===============
 
-This section describes how to prepare environment to start develop using OXID eShop.
+The OXID eShop developer documentation has moved to `OXID documentation <https://docs.oxid-esales.com>`_. Please use the new location to gather information.
 
-.. toctree::
-   :titlesonly:
-   :glob:
-
-   environment_preparation
-   eshop_installation
-   eshop_installation_without_composer
-   troubleshooting
-   what_is_next
+If you want to access the page directly please replace the top level domain http://oxid-eshop-developer-documentation.readthedocs.io  in the url with https://docs.oxid-esales.com/developer/.

@@ -1,21 +1,6 @@
-.. _metadata-20170307:
-
 Metadata
 ========
 
-Since OXID eShop version 4.9.0 / 5.2.0
-(`Release notes <https://www.oxid-esales.com/de/support-services/dokumentation-und-hilfe/oxid-eshop/releases/releases-2014/oxid-eshop-490520.html>`__)
-each module has to have metadata set. This has to be done with a file metadata.php in the module directory.
+The OXID eShop developer documentation has moved to `OXID documentation <https://docs.oxid-esales.com>`_. Please use the new location to gather information.
 
-.. note::
-
-  There is already a `blog post <https://oxidforge.org/en/extension-metadata-file.html>`__
-  about Module Metadata but this blog post is partly outdated with release of OXID eShop 6.0.
-
-
-
-.. toctree::
-    :titlesonly:
-    :glob:
-
-    *
+If you want to access the page directly please replace the top level domain http://oxid-eshop-developer-documentation.readthedocs.io  in the url with https://docs.oxid-esales.com/developer/.

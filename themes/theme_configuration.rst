@@ -1,6 +1,6 @@
 Theme Configuration
 ===================
 
-Possibility to configure theme was added with `the pull request #381 <https://github.com/OXID-eSales/oxideshop_ce/pull/381>`__
+The OXID eShop developer documentation has moved to `OXID documentation <https://docs.oxid-esales.com>`_. Please use the new location to gather information.
 
-Example how to change settings for already existing theme `as it was done in the Flow Theme <https://github.com/OXID-eSales/flow_theme/pull/31>`__
+If you want to access the page directly please replace the top level domain http://oxid-eshop-developer-documentation.readthedocs.io  in the url with https://docs.oxid-esales.com/developer/.

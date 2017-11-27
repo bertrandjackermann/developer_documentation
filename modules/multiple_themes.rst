@@ -1,4 +1,6 @@
 Multiple themes
 ===============
 
-The contents of this page moved to :doc:`Module Metadata Version 2.0 </modules/metadata/version20>`
+The OXID eShop developer documentation has moved to `OXID documentation <https://docs.oxid-esales.com>`_. Please use the new location to gather information.
+
+If you want to access the page directly please replace the top level domain http://oxid-eshop-developer-documentation.readthedocs.io  in the url with https://docs.oxid-esales.com/developer/.
